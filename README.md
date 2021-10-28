@@ -2,6 +2,8 @@
 <h3 align="center"> A jr Frontend Developer 👩🏽‍💻 from Spain/Bolivia currently in 📍Lisbon</h3>
 
 - 🔭 I’m currently working on **my personal project** 🚀
+
+
  **HTML, CSS, GIT, GULP, JS, REACT, BEM, SASs, NODE, EXPRESS JS...**
 
 - 📫 How to reach me **danisalazarcueto7@gmail.com**
