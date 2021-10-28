@@ -1,7 +1,7 @@
-<h1 align="center">Hi ✌🏼 , I'm Daniela Salazar Cueto</h1>
-<h3 align="center">A passionate jr Frontend Developer 👩🏽‍💻 from Spain/Bolivia Currently in Lisbon</h3>
+<h1 align="center">Hi there! I'm Daniela Salazar Cueto</h1>
+<h3 align="center"> A jr Frontend Developer 👩🏽‍💻 from Spain/Bolivia currently in 📍Lisbon</h3>
 
-- 🔭 I’m currently working on **my personal project**
+- 🔭 I’m currently working on **my personal project** 🚀
  **HTML, CSS, GIT, GULP, JS, REACT, BEM, SASs, NODE, EXPRESS JS...**
 
 - 📫 How to reach me **danisalazarcueto7@gmail.com**
