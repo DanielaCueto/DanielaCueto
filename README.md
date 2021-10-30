@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Daniela Salazar Cueto</h1>
-<h3 align="center"> A jr Frontend Developer 👩🏽‍💻 from Spain/Bolivia currently in 📍Lisbon</h3>
+<h3 align="center">  Jr. Frontend Developer 👩🏽‍💻 from Bolivia/Spain currently in 📍Lisbon</h3>
 
 - 🔭 I’m currently working on **my personal project** 🚀
 
