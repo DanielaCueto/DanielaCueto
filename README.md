@@ -3,9 +3,6 @@
 
 - 🔭 I’m currently working on **my personal project** 🚀
 
-
- **HTML, CSS, GIT, GULP, JS, REACT, BEM, SASs, NODE, EXPRESS JS...**
-
 - 📫 How to reach me **danisalazarcueto7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
