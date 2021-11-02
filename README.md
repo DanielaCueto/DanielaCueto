@@ -1,9 +1,11 @@
-<h1 align="center">Hi there! I'm Daniela Salazar Cueto</h1>
-<h3 align="center">  Jr. Frontend Developer 👩🏽‍💻 from Bolivia/Spain currently in 📍Lisbon</h3>
+<h1 align="center"> ¡Hola!✌🏼. Olá!😊. Hello world! 🌎 I'm Daniela Salazar Cueto</h1>
+<h3 align="center">  Jr. Frontend Developer 👩🏽‍💻 from Bolivia/Spain currently in 📍Lisbon, Portugal</h3>
+<p> I just finished Adalab bootcamp and I am delighted to join the world of Frontend development <p/>
 
 - 🔭 I’m currently working on **my personal project** 🚀
 
 - 📫 How to reach me **danisalazarcueto7@gmail.com**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
