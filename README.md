@@ -2,7 +2,7 @@
 <h3 align="center">  Jr. Frontend Developer 👩🏽‍💻 from Bolivia/Spain currently in 📍Lisbon, Portugal</h3>
 <p> I just finished the Adalab bootcamp and I am delighted to join the world of Frontend development <p/>
 
-- 🔭 I’m currently working on **my personal project** 🚀
+- 🔭 I’m currently working on **breakout-game** 🚀
 
 - 📫 How to reach me **danisalazarcueto7@gmail.com**
 - 
