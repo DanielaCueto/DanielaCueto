@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **breakout-game** and my own **web page** <a href="www.danielacueto.com" target="blank">www.danielacueto.com</a> 🚀
 
 - 📫 How to reach me **danisalazarcueto7@gmail.com**
-- 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
