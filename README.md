@@ -1,8 +1,8 @@
 <h1 align="center">  Hello world! 🌎 I'm Daniela Salazar Cueto</h1>
-<h3 align="center">  Jr. Frontend Developer 👩🏽‍💻 from Bolivia/Spain currently in 📍Lisbon, Portugal</h3>
+<h3 align="center">  Jr. Frontend Developer 👩🏽‍💻 from Bolivia currently in 📍Lisbon, Portugal</h3>
 <p> I would like to share with you the personal projects I've worked on.   <p/>
 
-- 🔭 I’m currently working on **breakout-game** and my own **web page** <a href="www.danielacueto.com" target="blank">www.danielacueto.com</a> 🚀
+- 🔭 I’m currently working my own **web page** <a href="www.danielacueto.com" target="blank">www.danielacueto.com</a> 🚀
 
 - 📫 How to reach me **danisalazarcueto7@gmail.com**
 
